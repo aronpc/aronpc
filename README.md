@@ -47,8 +47,8 @@ and  exploring new technologies.
 ## 📊 My Statistics
 
 <div align="center">
-    <img height="220em" src="https://ghst.aronpc.dev/api/top-langs/?username=aronpc&layout=compact&theme=github_dark&include_all_commits=true&count_private=true" alt="Most Used Languages of the Year" />
-    <img height="220em" src="https://ghst.aronpc.dev/api?username=aronpc&show_icons=true&theme=github_dark&hide=contribs&include_all_commits=true&count_private=true" alt="GitHub Yearly Statistics" />
+    <img height="180em" src="https://ghst.aronpc.dev/api/top-langs/?username=aronpc&layout=compact&theme=github_dark&include_all_commits=true&count_private=true" alt="Most Used Languages of the Year" />
+    <img height="180em" src="https://ghst.aronpc.dev/api?username=aronpc&show_icons=true&theme=github_dark&hide=contribs&include_all_commits=true&count_private=true" alt="GitHub Yearly Statistics" />
 </div>
 
 ---

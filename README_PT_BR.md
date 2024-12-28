@@ -47,8 +47,8 @@ montar LEGO com minha família e explorar novas tecnologias.
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-    <img height="220em" src="https://ghst.aronpc.dev/api/top-langs/?username=aronpc&layout=compact&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Linguagens Mais Usadas do Ano" />
-    <img height="220em" src="https://ghst.aronpc.dev/api?username=aronpc&show_icons=true&theme=github_dark&hide=contribs&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas Anuais do GitHub" />
+    <img height="180em" src="https://ghst.aronpc.dev/api/top-langs/?username=aronpc&layout=compact&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br" alt="Linguagens Mais Usadas do Ano" />
+    <img height="180em" src="https://ghst.aronpc.dev/api?username=aronpc&show_icons=true&theme=github_dark&hide=contribs&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas Anuais do GitHub" />
 </div>
 
 ---
