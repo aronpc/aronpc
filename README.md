@@ -59,7 +59,9 @@ and  exploring new technologies.
 
 - **Languages**: PHP (Laravel, Symfony), Node.js
 - **Testing**: PHPUnit, Pest
-- **Patterns**: Hexagonal Architecture, Domain-Driven Design (DDD), MVC, Microservices
+- **Patterns and Practices**: Hexagonal Architecture, Domain-Driven Design (DDD), Test-Driven Development (TDD), Model-View-Controller (MVC), Microservices
+
+
 
 ### Frontend
 

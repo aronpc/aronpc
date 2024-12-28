@@ -59,7 +59,7 @@ montar LEGO com minha família e explorar novas tecnologias.
 
 - **Linguagens**: PHP (Laravel, Symfony), Node.js
 - **Testes**: PHPUnit, Pest
-- **Padrões**: Arquitetura Hexagonal, Domain-Driven Design (DDD), MVC, Microsserviços
+- **Padrões e Práticas**: Arquitetura Hexagonal, Domain-Driven Design (DDD), Test-Driven Development (TDD), Model-View-Controller (MVC), Microsserviços
 
 ### Frontend
 
