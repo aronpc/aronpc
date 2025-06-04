@@ -11,12 +11,9 @@
 
 ## ✍️ Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Com sólida experiência em PHP/Laravel,  
-JavaScript/Node.js e Docker, busco constantemente aprimorar meu conhecimento e habilidades.
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Com sólida experiência em PHP/Laravel, JavaScript/Node.js e Docker, busco constantemente aprimorar meu conhecimento e habilidades.
 
-Tenho especial interesse em estratégias de deploy para SaaS, utilizando ferramentas como Docker, Kubernetes e AWS para \
-criar soluções robustas e escaláveis. Quando não estou programando, gosto de praticar esportes de combate, \
-montar LEGO com minha família e explorar novas tecnologias.
+Tenho especial interesse em estratégias de deploy para SaaS, utilizando ferramentas como Docker, Kubernetes e AWS para criar soluções robustas e escaláveis. Quando não estou programando, gosto de praticar esportes de combate, montar LEGO com minha família e explorar novas tecnologias.
 
 > No fim, todo sistema é como uma grande escultura de LEGO, composta por pequenas peças que se encaixam perfeitamente.
 
