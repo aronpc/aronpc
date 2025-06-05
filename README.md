@@ -11,16 +11,11 @@
 
 ## ✍️ About Me
 
-I am a developer passionate about creating innovative and efficient solutions. With solid experience in PHP/Laravel, \ 
-JavaScript/Node.js, and Docker, I strive to continuously refine my expertise.
+I am a developer passionate about creating innovative and efficient solutions. With solid experience in PHP/Laravel, JavaScript/Node.js and Docker, I strive to continuously refine my expertise.
 
-I have a strong interest in SaaS deployment strategies, leveraging tools like Docker, Kubernetes, and AWS to deliver \
-robust and scalable solutions. When I'm not coding, I enjoy practicing combat sports, building LEGO with my family, \
-and  exploring new technologies.
+I have a strong interest in SaaS deployment strategies, leveraging tools like Docker, Kubernetes and AWS to deliver robust and scalable solutions. When I'm not coding, I enjoy practicing combat sports, building LEGO with my family, and exploring new technologies.
 
 > In the end, every system is like a giant LEGO sculpture, built from small pieces that fit together perfectly.
-
----
 
 ## 💼 Find Me Around
 
