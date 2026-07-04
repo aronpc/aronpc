@@ -2,7 +2,7 @@
 
 # 👋 Hello, I am Aron Peyroteo!
 
-- 💻 **PHP/Laravel Specialist**
+- 💻 **Backend Engineer** · PHP · Node.js · Go · AI tooling
 - 🌍 **Location:** Arraial do Cabo - RJ, Brazil
 - 🛠️ **Passionate about:** Technology, combat sports, and LEGO
 - 🎯 **Goal:** Work internationally and contribute to innovative projects.
@@ -23,7 +23,7 @@ Monitors **Claude Code**, **Gemini CLI** and **OpenCode**. Agent-agnostic archit
 
 ## ✍️ About Me
 
-I am a developer passionate about creating innovative and efficient solutions. With solid experience in PHP/Laravel, JavaScript/Node.js and Docker, I strive to continuously refine my expertise.
+I am a developer passionate about creating innovative and efficient solutions. With solid experience in PHP/Laravel, Node.js, Go and JavaScript/TypeScript — and a growing focus on AI-powered tooling and agent workflows — I strive to continuously refine my expertise.
 
 I have a strong interest in SaaS deployment strategies, leveraging tools like Docker, Kubernetes and AWS to deliver robust and scalable solutions. When I'm not coding, I enjoy practicing combat sports, building LEGO with my family, and exploring new technologies.
 
@@ -64,15 +64,20 @@ I have a strong interest in SaaS deployment strategies, leveraging tools like Do
 
 ### Backend
 
-- **Languages**: PHP (Laravel, Symfony), Node.js
+- **Languages**: PHP (Laravel, Symfony), Node.js, Go
 - **Testing**: PHPUnit, Pest
 - **Patterns and Practices**: Hexagonal Architecture, Domain-Driven Design (DDD), Test-Driven Development (TDD), Model-View-Controller (MVC), Microservices
 
 
+### AI & Agents
+
+- **Agent tooling**: Claude Code, Gemini CLI, OpenCode
+- **Integration**: LLM-powered features, Model Context Protocol (MCP), AI agent automation
+
 
 ### Frontend
 
-- **Languages & Frameworks**: JavaScript (ES6+, React, Vue.js), HTML5, CSS3
+- **Languages & Frameworks**: JavaScript/TypeScript (ES6+, React, Vue.js), HTML5, CSS3
 - **Tools**: Vite, Webpack
 - **Styling**: Tailwind CSS, Bootstrap
 
