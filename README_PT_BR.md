@@ -2,16 +2,28 @@
 
 # 👋 Olá, eu sou Aron Peyroteo!
 
-- 💻 **Especialista em PHP/Laravel**
+- 💻 **Engenheiro Backend** · PHP · Node.js · Go · ferramentas de IA
 - 🌍 **Localização:** Arraial do Cabo - RJ, Brasil
 - 🛠️ **Apaixonado por:** Tecnologia, esportes de combate e LEGO
 - 🎯 **Objetivo:** Trabalhar internacionalmente e contribuir com projetos inovadores.
 
 ---
 
+## 🚦 Projeto em destaque — AI Traffic Lights
+
+Um overlay translúcido e sempre no topo (Electron) que mostra o estado de cada **sessão de agente de IA no terminal** como um semáforo: 🟢 concluído · 🟡 trabalhando · 🔴 precisa de você. Um clique leva ao terminal da sessão — a janela exata e, no Warp, a aba exata.
+
+Monitora **Claude Code**, **Gemini CLI** e **OpenCode**. Arquitetura agent-agnostic — novos agentes entram por adapters. Linux · MIT.
+
+**➡️ [github.com/aronpc/ai-traffic-lights](https://github.com/aronpc/ai-traffic-lights)**
+
+[![AI Traffic Lights](https://ghst.aronpc.dev/api/pin/?username=aronpc&repo=ai-traffic-lights&theme=github_dark)](https://github.com/aronpc/ai-traffic-lights)
+
+---
+
 ## ✍️ Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Com sólida experiência em PHP/Laravel, JavaScript/Node.js e Docker, busco constantemente aprimorar meu conhecimento e habilidades.
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Com sólida experiência em PHP/Laravel, Node.js, Go e JavaScript/TypeScript — e um foco crescente em ferramentas com IA e fluxos com agentes — busco constantemente aprimorar meu conhecimento e habilidades.
 
 Tenho especial interesse em estratégias de deploy para SaaS, utilizando ferramentas como Docker, Kubernetes e AWS para criar soluções robustas e escaláveis. Quando não estou programando, gosto de praticar esportes de combate, montar LEGO com minha família e explorar novas tecnologias.
 
@@ -54,13 +66,18 @@ Tenho especial interesse em estratégias de deploy para SaaS, utilizando ferrame
 
 ### Backend
 
-- **Linguagens**: PHP (Laravel, Symfony), Node.js
+- **Linguagens**: PHP (Laravel, Symfony), Node.js, Go
 - **Testes**: PHPUnit, Pest
 - **Padrões e Práticas**: Arquitetura Hexagonal, Domain-Driven Design (DDD), Test-Driven Development (TDD), Model-View-Controller (MVC), Microsserviços
 
+### IA & Agentes
+
+- - **Ferramentas de agentes**: Claude Code, Gemini CLI, OpenCode
+  - - **Integração**: funcionalidades com LLM, Model Context Protocol (MCP), automação com agentes de IA
+
 ### Frontend
 
-- **Linguagens & Frameworks**: JavaScript (ES6+, React, Vue.js), HTML5, CSS3
+- **Linguagens & Frameworks**: JavaScript/TypeScript (ES6+, React, Vue.js), HTML5, CSS3
 - **Ferramentas**: Vite, Webpack
 - **Estilização**: Tailwind CSS, Bootstrap
 
