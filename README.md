@@ -9,6 +9,18 @@
 
 ---
 
+## 🚦 Featured project — AI Traffic Lights
+
+A translucent, always-on-top overlay (Electron) that shows the state of every **terminal AI agent session** as a traffic light: 🟢 done · 🟡 working · 🔴 needs you. One click jumps to the session's terminal — the exact window, and in Warp the exact tab.
+
+Monitors **Claude Code**, **Gemini CLI** and **OpenCode**. Agent-agnostic architecture — new agents land via adapters. Linux · MIT.
+
+**➡️ [github.com/aronpc/ai-traffic-lights](https://github.com/aronpc/ai-traffic-lights)**
+
+[![AI Traffic Lights](https://ghst.aronpc.dev/api/pin/?username=aronpc&repo=ai-traffic-lights&theme=github_dark)](https://github.com/aronpc/ai-traffic-lights)
+
+---
+
 ## ✍️ About Me
 
 I am a developer passionate about creating innovative and efficient solutions. With solid experience in PHP/Laravel, JavaScript/Node.js and Docker, I strive to continuously refine my expertise.
